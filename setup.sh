@@ -9,7 +9,7 @@ cat > "$HOME/.local/bin/open-site-loop.sh" <<EOF
 #!/bin/bash
 while true
 do
-    google-chrome "$URL"
+    firefox "$URL"
     sleep 5
 done
 EOF
