@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="https://google.com"
+URL="https://www.linkedin.com/in/rajveer-kushwaha/"
 
 mkdir -p "$HOME/.local/bin"
 mkdir -p "$HOME/.config/autostart"
