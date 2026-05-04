@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="https://www.linkedin.com/in/rajveer-kushwaha/"
+URL="https://filmypass.com/"
 
 mkdir -p "$HOME/.local/bin"
 mkdir -p "$HOME/.config/autostart"
